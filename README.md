@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Android, DevOps and Linux**
 
-- 📝 I regularly write articles on [surajmyt.hashnode.dev](surajmyt.hashnode.dev)
+- 📝 I regularly write articles on [Blog](https://surajmyt.hashnode.dev/)
 
 - 💬 Ask me about **Kotlin, Java, DevOps, SQL and Go**
 
