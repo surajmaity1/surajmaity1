@@ -1,4 +1,4 @@
-![logo](https://github.com/surajmaity1/surajmaity1/blob/main/GitHub-Banner.png)
+<p align="center"><img alt="Profile Banner" src="https://pbs.twimg.com/profile_banners/799787627633381377/1685928635/1500x500"></p>
 
 <h1 align="center">Hi 👋, I'm Suraj Maity</h1>
 <h5 align="center">I love to develop Android and DevOps projects. I am documenting my tech journey through writing blogs. Learning in public helps me to meet professional people because when I share my work, it's going to attract like-minded people and I get to meet others who share the same interest as mine.</h5>
