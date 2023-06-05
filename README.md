@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **surajmaity981@gmail.com**
 
-- 📄 My resume - [SURAJ MAITY.pdf]([https://bit.ly/3zqFeR8](https://bit.ly/3WVYKAc))
+- 📄 My resume - [SURAJ MAITY.pdf](https://bit.ly/surajmaity1)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajmaity1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
