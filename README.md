@@ -16,8 +16,7 @@
 
 - 🔭 I’m currently working on [Averysync App](https://github.com/surajmaity1/Averysync)
 
-- 🌱 I’m currently learning **Android Development**
-
+- 🌱 I’m currently learning **Android Development** <img align="center" alt="Android" width="95" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 - 📝 I regularly write articles on [Blog](https://surajmyt.hashnode.dev/)
 
 - 💬 Ask me about **Java, Kotlin, C and SQL**
