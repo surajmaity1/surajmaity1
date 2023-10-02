@@ -35,20 +35,10 @@
 - 📝 I regularly write articles on [HashNode Platform](https://surajmyt.hashnode.dev/)
 - 💬 Ask me about **Java, Kotlin, C and SQL**
 - 📫 How to reach me **surajmaity981@gmail.com**
-- 📄 My resume - [SURAJ MAITY.pdf](https://drive.google.com/file/d/17F_QpbUQ29VyDEE5RPGs02P9dwyqlA81/view?usp=sharing)
 
-
-### 🌱 PROJECTS:
--  [RetroRestfulWebServ Android Application:](https://github.com/surajmaity1/RetroRestfulWebServ)
-<p>This android app helps us to retrieve and send data to the web service with the help of one of the most popular and widely used HTTP communication libraries on Android Retrofit. Retrofit manage HTTP request and web service integration. Set up two local web servers and consume RESTful web services using Retrofit at the same time. This app is made using Kotlin, XML, and Retrofit.</p>
-
--  [Notes Android App:](https://github.com/surajmaity1/Notes-App)
-<p>This app solves that we never have to deal with a disorganized desk or missing notes. It syncs our documents on the cloud (using Firebase), allowing us to access, update and delete them whenever we want. This Note app is made using Java, XML, and Firebase Cloud.</p>
+### Resume:
+- [SURAJ MAITY.pdf](https://drive.google.com/file/d/17F_QpbUQ29VyDEE5RPGs02P9dwyqlA81/view?usp=sharing)
 
 ### Extracurricular Activities
-
 -  [YouTube:](https://www.youtube.com/@SurajMaity)
 <p>Helped students by providing videos about starting from installation of software to writing the first program about different programming languages such as bash and C.</p>
-
--  [Volunteer:](https://youtu.be/bJdXDw0WIfY)
-<p>Hosted and worked as a volunteer for Android Worldwide (a nonprofit community of Android developers). This event about ’RxJava vs Kotlin Coroutines’.</p>
