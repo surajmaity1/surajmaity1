@@ -9,26 +9,21 @@
 [![Hashnode Badge](https://img.shields.io/badge/-@surajmyt-lightblue?style=flat-square&logo=Hashnode&logoColor=blue)](https://hashnode.com/@surajmyt)
 <!-- About Me -->
 ### ⭐ About Suraj: 
-- Software Developer
 - B.Tech Computer Science and Engineering Graduate [2019-2023]
-- Technical Writer
-- Open Source 
-- Community
-- Learn By Doing
-- Learn In Public
+
 
 ### 👨🏻‍💻 Languages
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,javascript,sqlite,c,html,css&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,sqlite,c,&perline=8)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,eclipse,androidstudio,git,github,bash,linux,vim&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,git,github,bash,linux,vim&perline=5)](https://skillicons.dev)
 
 ### Frameworks
-  [![My Skills](https://skillicons.dev/icons?i=spring,react&perline=8)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=spring&perline=8)](https://skillicons.dev) 
 
 
 - 📝 I regularly write articles on [HashNode Platform](https://surajmyt.hashnode.dev/)
-- 💬 Ask me about **Java, Spring Boot, ReactJs Kotlin, C, SQL, Web and Android**
+- 💬 Ask me about **Java, Kotlin, Android, Spring Boot, SQL and C**
 - 📫 How to reach me **surajmaity981@gmail.com**
 
 ### Resume:
