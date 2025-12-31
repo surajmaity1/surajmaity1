@@ -71,3 +71,5 @@ Software developer passionate about building software that solves real business 
 <div>
   <img src="https://komarev.com/ghpvc/?username=surajmaity1&label=Profile%20views&color=0e75b6&style=flat" alt="surajmaity1" />
 </div>
+
+<img height="200em" src="https://streak-stats.demolab.com/?user=surajmaity1&theme=transparent"/>
