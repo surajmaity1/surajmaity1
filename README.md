@@ -9,10 +9,10 @@
   </p>
   <p>
     <a href="https://www.linkedin.com/in/surajmaity1/" target="_blank">
-      <img src="https://img.shields.io/badge/-Suraj_Maity-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
     </a>
     <a href="https://twitter.com/surajmyt" target="_blank">
-      <img src="https://img.shields.io/badge/-@surajmyt-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Twitter(X)-1DA1F2?style=flat&logo=x&logoColor=black"/>
     </a>
     <a href="https://www.youtube.com/@SurajMaity" target="_blank">
       <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=Youtube&logoColor=white"/>
@@ -26,7 +26,6 @@
 <br>
 
 
----
 
 ## 🏆 Featured Projects
 
@@ -35,7 +34,6 @@
 | **[Averysync](https://www.averysync.com)** | Averysync is a dynamic social networking platform that combines the ease of sharing short text updates with the engagement of live voice conversations.Designed to foster real-time community interaction, the platform allows users to post thoughts, discover global trends, and instantly jump into live audio spaces to discuss topics. It bridges the gap between static social feeds and live interactive broadcasting. | [averysync.com](https://www.averysync.com) | React, Django & PostgreSQL |
 | **[SurajMaity](https://surajmaity.com)** | Personal developer portfolio. | [surajmaity.com](https://surajmaity.com) | React & Tailwind |
 
----
 
 ## 🚀 At a glance
 
@@ -64,7 +62,6 @@ Software developer passionate about building software that solves real business 
   </a>
 </p>
 
----
 <div>
   <br>
   <a href="https://drive.google.com/file/d/1LYpyDTUjlZmuUklCKLmKR8vP2ZLur9AG/view?usp=sharing" target="_blank">
