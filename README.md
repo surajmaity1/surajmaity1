@@ -31,7 +31,7 @@
 
 | Project | Description | Live Links | Stack |
 | :--- | :--- | :--- | :--- |
-| **[Averysync](https://www.averysync.com)** | Averysync is a dynamic social networking platform that combines the ease of sharing short text updates with the engagement of live voice conversations.Designed to foster real-time community interaction, the platform allows users to post thoughts, discover global trends, and instantly jump into live audio spaces to discuss topics. It bridges the gap between static social feeds and live interactive broadcasting. | [averysync.com](https://www.averysync.com) | React, Django & PostgreSQL |
+| **[Averysync](https://www.averysync.com)** | Averysync is a dynamic social networking platform that combines the ease of sharing short text updates with the engagement of live voice conversations.Designed to foster real-time community interaction, the platform allows users to post thoughts, discover global trends, and instantly jump into live audio spaces to discuss topics. It bridges the gap between static social feeds and live interactive broadcasting. | [averysync.com](https://www.averysync.com) | React, Django, Go & PostgreSQL |
 | **[SurajMaity](https://surajmaity.com)** | Personal developer portfolio. | [surajmaity.com](https://surajmaity.com) | React & Tailwind |
 
 
