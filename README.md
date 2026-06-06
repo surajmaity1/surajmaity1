@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
   <!-- <h1>Hi, I'm Suraj👋</h1> -->
   <!-- <p>
     <strong>Software Developer</strong>
@@ -21,11 +21,9 @@
       <img src="https://img.shields.io/badge/-Blog-2962FF?style=flat&logo=Hashnode&logoColor=white"/>
     </a>
   </p> -->
-</div>
+<!-- </div> -->
 
-<br>
-
-
+<!-- <br> -->
 
 ## 🏆 Project
 
@@ -70,8 +68,6 @@ Software developer passionate about building software that solves real business 
   <a href="https://drive.google.com/file/d/1LYpyDTUjlZmuUklCKLmKR8vP2ZLur9AG/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
-  <br>
-  <br>
   <br>
   <a href="https://www.linkedin.com/in/surajmaity1/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
